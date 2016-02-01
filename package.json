@@ -1,0 +1,14 @@
+{
+  "name": "orzdb-lib",
+  "version": "0.1.0",
+  "description": "##Orz Database Online Query-Lib",
+  "main": "index.js",
+  "author": {
+    "name": "wfjsw",
+    "email": "undisclosed"
+  },
+  "dependencies": {
+    "promise": "^7.1.1",
+    "request-promise": "^2.0.0"
+  }
+}
